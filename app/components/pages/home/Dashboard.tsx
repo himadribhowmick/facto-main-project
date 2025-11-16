@@ -226,7 +226,7 @@ const Dashboard: React.FC = () => {
             <div className="bg-white p-3  shadow-sm  flex justify-between items-center mx-auto w-[373.23px] h-[96px] top-[482.88px] left-[24.25px] py-4 px-6 gap-[26px] -rotate-[-6.36deg] rounded-[25px]">
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 rounded-full border-2 border-white overflow-hidden -rotate-[-6.36deg]">
-                  <img src={u3} alt="u3" className="w-full h-full object-cover" />
+                  <img src={Profile} alt="u3" className="w-full h-full object-cover" />
                 </div>
                 <span className="text-gray-800 font-bold text-[24px] ">
                   Online <br />
