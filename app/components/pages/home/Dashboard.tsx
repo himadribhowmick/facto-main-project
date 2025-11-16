@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { Illustration } from "~/utils/images/icon.image";
 import { info } from "~/utils/images/icon.image";
 import { Sales } from "~/utils/images/icon.image";
@@ -14,19 +15,6 @@ import { u5 } from "~/utils/images/icon.image";
 import { Profile } from "~/utils/images/icon.image";
 
 
-
-import sales from "../assets/sales-icon.png";
-// import total from "../assets/total-sales.png";
-// import trending from "../assets/trending-up.svg";
-// import factoring from "../assets/factoring-logo.png";
-// import dollar from "../assets/dollar-logo.png";
-// import u1 from "../assets/user1.jpg";
-// import u2 from "../assets/user2.jpg";
-// import as from "../assets/average-sale.png";
-// import u3 from "../assets/user3.jpg";
-// import u4 from "../assets/user4.jpg";
-// import u5 from "../assets/user5.jpg";
-// import secure from "../assets/secure-logo.png";
 
 
 const Dashboard: React.FC = () => {
