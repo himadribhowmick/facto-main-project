@@ -11,7 +11,7 @@ import u2 from "~/assets/icon/u2.jpg";
 import u3 from "~/assets/icon/u3.jpg";
 import u4 from "~/assets/icon/u4.jpg";
 import u5 from "~/assets/icon/u5.jpg";
-import Profile from "~/assets/icon/profile.jpg";
+import Profile from "~/assets/icon/profile.png";
 
 export { Illustration };
 export { info };
