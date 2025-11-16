@@ -1,6 +1,6 @@
 import Illustration from "~/assets/icon/Illustration.png";
 import info from "~/assets/icon/info.svg";
-import Sales from "~/assets/icon/sales.svg";
+import sales from "~/assets/icon/sales.svg";
 import Trending from "~/assets/icon/trending.svg";
 import Avg from "~/assets/icon/avg.svg";
 import Factoring from "~/assets/icon/factoring.svg";
@@ -15,7 +15,7 @@ import Profile from "~/assets/icon/Profile.jpg";
 
 export { Illustration };
 export { info };
-export { Sales };
+export { sales };
 export { Trending };
 export { Avg };
 export { Factoring };

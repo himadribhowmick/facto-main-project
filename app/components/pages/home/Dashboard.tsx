@@ -1,7 +1,6 @@
-import { useState } from "react";
-import { Illustration } from "~/utils/images/icon.image";
+
 import { info } from "~/utils/images/icon.image";
-import { Sales } from "~/utils/images/icon.image";
+import { sales } from "~/utils/images/icon.image";
 import { Trending } from "~/utils/images/icon.image";
 import { Avg } from "~/utils/images/icon.image";
 import { Factoring } from "~/utils/images/icon.image";
@@ -13,6 +12,8 @@ import { u3} from "~/utils/images/icon.image";
 import { u4 } from "~/utils/images/icon.image";
 import { u5 } from "~/utils/images/icon.image";
 import { Profile } from "~/utils/images/icon.image";
+
+
 
 
 
@@ -43,7 +44,7 @@ const Dashboard: React.FC = () => {
             <div className="w-[401px] h-[62px] opacity-100 flex items-center gap-[24px] bg-[#E0F0E5]">
               
             <h2 className="flex items-center w-[334px] h-[62px] opacity-100 font-roboto font-semibold text-[32px] leading-[40px] align-middle text-[#141414] gap-6">
-              <img src={info} alt="sales-icon" className=" w-[40px] h-[40px]" />
+              <img src={info} alt="sal" className=" w-[40px] h-[40px]" />
               Sales overview from Previous Day
             </h2>
             
@@ -54,7 +55,7 @@ const Dashboard: React.FC = () => {
             <div className="w-[400px] h-[475px] opacity-100 flex flex-col  items-center justify-center gap-[50px] relative      ">
               <div className="w-[400px] h-[361px] opacity-100 rounded-[24px] bg-[#FFFFFF] flex align-middle">
               <div className="flex gap-4 items-center  w-[308px] h-[40px] opacity-100 absolute top-[32px] left-[32.5px] ">
-                <img src={Sales} alt="total sales" className="w-[32px] h-[32px]" />
+                <img src={sales} alt="total sales" className="w-[32px] h-[32px]" />
                 <span className="w-[260px] h-[40px] opacity-100 flex gap-2">
                 <span className="w-[133px] h-[22px] opacity-100 font-manrope font-medium text-[24px] leading-[36px] align-middle text-[#686868]">
                   Total sales:
