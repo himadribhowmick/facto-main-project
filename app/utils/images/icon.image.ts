@@ -12,6 +12,7 @@ import u3 from "~/assets/icon/u3.jpg";
 import u4 from "~/assets/icon/u4.jpg";
 import u5 from "~/assets/icon/u5.jpg";
 import Profile from "~/assets/icon/profile.jpg";
+import PlusIcon from "~/assets/icon/PlusIcon.png";
 
 export { Illustration };
 export { info };
@@ -27,6 +28,7 @@ export { u3 };
 export { u4 };
 export { u5 };
 export { Profile };
+export { PlusIcon };
 
 
 
